@@ -9,4 +9,5 @@ movethatfile move the file betty /tmp/ to /tmp/my_first_directory <br/>
 8-firstdelete delete the file betty <br/>
 9-firstdirdeletion delete my_first_directory in the /tmp/ <br/>
 10-back changes the working directory to the previous one <br/>
-11-lists list all files including hindden files in the current directory the parent of directory and the /boot directory,in long format
+11-lists list all files including hindden files in the current directory the parent of directory and the /boot directory,in long format <br/>
+12-file_type prints the type of the file named iamafile in the /tmp <br/>
