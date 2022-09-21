@@ -11,3 +11,4 @@ movethatfile move the file betty /tmp/ to /tmp/my_first_directory <br/>
 10-back changes the working directory to the previous one <br/>
 11-lists list all files including hindden files in the current directory the parent of directory and the /boot directory,in long format <br/>
 12-file_type prints the type of the file named iamafile in the /tmp <br/>
+13-symbolic_link create link to /bin/ls, named __ls__
