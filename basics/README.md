@@ -8,4 +8,5 @@ the 6-firstdirectory creates a directory named my_first_directory in the /tmp/ d
 movethatfile move the file betty /tmp/ to /tmp/my_first_directory <br/>
 8-firstdelete delete the file betty <br/>
 9-firstdirdeletion delete my_first_directory in the /tmp/ <br/>
-10-back changes the working directory to the previous one
+10-back changes the working directory to the previous one <br/>
+11-lists list all files including hindden files in the current directory the parent of directory and the /boot directory,in long format
