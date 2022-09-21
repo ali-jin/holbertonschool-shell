@@ -7,4 +7,5 @@ the 5-listfilesdigitonly is a script that that display current directory content
 the 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory <br/>
 movethatfile move the file betty /tmp/ to /tmp/my_first_directory <br/>
 8-firstdelete delete the file betty <br/>
-9-firstdirdeletion delete my_first_directory in the /tmp/
+9-firstdirdeletion delete my_first_directory in the /tmp/ <br/>
+10-back changes the working directory to the previous one
