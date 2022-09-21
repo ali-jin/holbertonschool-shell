@@ -6,3 +6,4 @@ the 4-listmorefiles script display directory contents, including hidden files in
 the 5-listfilesdigitonly is a script that that display current directory contents in long format with hidden files, and also with user and group IDs displayed numerically <br/>
 the 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory <br/>
 movethatfile move the file betty /tmp/ to /tmp/my_first_directory <br/>
+8-firstdelete delete the file betty
