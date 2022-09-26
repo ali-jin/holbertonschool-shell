@@ -10,4 +10,5 @@ the file hello <br/>
 8-James_Bond sets the permission to the file hello <br/>
 9-John_Doe sets the mode of the file hello <br/>
 10-mirror_permissions sets the mode of the file hello the same as olleh's mode <br/>
+11-directories_permissions adds execute permission to all subdirectories of the current directory <br/>
 
