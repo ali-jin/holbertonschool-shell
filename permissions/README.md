@@ -7,4 +7,4 @@
 6-multiple_permissions adds execute permission to the owner and the group owner, and read permission to other user to 
 the file hello <br/>
 7-everybody adds execution permission to the owner, the group owner and the others users to the file hello <br/>
-
+8-James_Bond sets the permission to the file hello
