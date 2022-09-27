@@ -1,2 +1,2 @@
 #!/bin/bash
-grep $USER /etc/passwd
+grep ^$USER /etc/passwd
