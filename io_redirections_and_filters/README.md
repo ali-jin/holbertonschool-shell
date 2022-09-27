@@ -22,4 +22,5 @@ subfolders <br/>
 20-hiago removes all letters c and C from input <br/>
 21-reverse script reverses its input <br/>
 22-users_and_homes displays all users and their home direstories, sorted by users <br/>
+23-empty_casks finds all empty files and directories in the current directory and all sub-directories <br/>
  
