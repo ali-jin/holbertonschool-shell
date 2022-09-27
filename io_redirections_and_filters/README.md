@@ -21,4 +21,5 @@ subfolders <br/>
 19-AZ replaces all characters A and c from input Z and e respectively <br/>
 20-hiago removes all letters c and C from input <br/>
 21-reverse script reverses its input <br/>
+22-users_and_homes displays all users and their home direstories, sorted by users <br/>
  
