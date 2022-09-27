@@ -23,4 +23,5 @@ subfolders <br/>
 21-reverse script reverses its input <br/>
 22-users_and_homes displays all users and their home direstories, sorted by users <br/>
 23-empty_casks finds all empty files and directories in the current directory and all sub-directories <br/>
+24-gifs lists alls the files with a .git extension in the current directory and its all sub-directories <br/>
  
