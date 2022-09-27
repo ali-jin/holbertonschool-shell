@@ -20,4 +20,5 @@ subfolders <br/>
 18-letteronly displays all lines of the file /etc/ssh/sshd_config starting with a letter <br/>
 19-AZ replaces all characters A and c from input Z and e respectively <br/>
 20-hiago removes all letters c and C from input <br/>
+21-reverse script reverses its input <br/>
  
